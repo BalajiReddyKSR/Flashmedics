@@ -1,2 +1,2 @@
-<h1> Hello, Yuor dePloyment is successfully done !!! </h1>
+<h1> Hello, Yuor Deployment is successfully done !!! </h1>
 
